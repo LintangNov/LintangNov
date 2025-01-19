@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LintangNov
-- 👀 I’m interested in mobile application development and back-end web development
+- 👀 I’m interested in mobile application development and back-end programming
 - 🌱 I’m currently learning back-end programming using JavaScript and developing mobile application with Flutter
 
 <!---
