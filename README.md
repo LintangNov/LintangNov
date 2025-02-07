@@ -8,11 +8,11 @@
 
 [![Github](https://img.shields.io/github/followers/LintangNov?label=Follow&style=social)](https://github.com/LintangNov)
 
-👋  Hi, I'm Waladi Lintang Novianto!
-🎓  Informatics student at UPN Veteran Yogyakarta
-📱    Currently learning mobile app development & backend programming
-💡    Passionate about building efficient and scalable applications
-🚀  Always exploring new technologies and improving my coding skills
+- 👋    Hi, I'm Waladi Lintang Novianto!
+- 🎓    Undergraduate Informatics student at UPN Veteran Yogyakarta
+- 📱    Currently learning mobile app development & backend programming
+- 💡    Passionate about building efficient and scalable applications
+- 🚀   Always exploring new technologies and improving my coding skills
 
 
 ### ⚙️ Tech Stack
