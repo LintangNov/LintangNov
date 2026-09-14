@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a 5th-semester **Informatics Undergraduate at UPN "Veteran" Yogyakarta** specializing in **Mobile Application Development**. To build a robust **T-shaped engineering profile**, I actively extend my core Flutter expertise into scalable **Backend Systems** and **On-Device AI/ML Integration**.
+I am an **Informatics Undergraduate at UPN "Veteran" Yogyakarta** specializing in **Mobile Application Development**. To build a robust **T-shaped engineering profile**, I actively extend my core Flutter expertise into scalable **Backend Systems** and **On-Device AI/ML Integration**.
 
 * **Education:** Informatics Student at UPN Veteran Yogyakarta.
 * **Core Focus:** Mobile App Architecture.
@@ -48,21 +48,6 @@ I am a 5th-semester **Informatics Undergraduate at UPN "Veteran" Yogyakarta** sp
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LintangNov&show_icons=true&theme=tokyonight&hide_border=true" alt="Lintang's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangNov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=LintangNov&theme=tokyonight&hide_border=true" alt="Lintang's Streak" />
-</div>
 
 ---
 
