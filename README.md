@@ -1,33 +1,73 @@
-# Waladi Lintang
+# Hi there, I'm Waladi Lintang Novianto! 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLintangNov%2FLintangNov&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Waladi-Lintang-Novianto/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/lntng.nov/)](https://www.instagram.com/lntng.nov)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waladi-lintang-novianto/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lintangwaladi@gmail.com)
-
 [![Github](https://img.shields.io/github/followers/LintangNov?label=Follow&style=social)](https://github.com/LintangNov)
-
-- 👋    Hi, I'm Waladi Lintang Novianto!
-- 🎓    Undergraduate Informatics student at UPN Veteran Yogyakarta
-- 📱    Currently learning mobile app development & backend programming
-- 💡    Passionate about building efficient and scalable applications
-- 🚀   Always exploring new technologies and improving my coding skills
-
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintangNov&show_icons=true&locale=en&layout=compact" alt="LintangNov" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=LintangNov&" alt="LintangNov" />
-</div>
-
 
 ---
 
+### 🚀 About Me
 
+I am a 5th-semester **Informatics Undergraduate at UPN "Veteran" Yogyakarta** specializing in **Mobile Application Development**. To build a robust **T-shaped engineering profile**, I actively extend my core Flutter expertise into scalable **Backend Systems** and **On-Device AI/ML Integration**.
 
+* **Education:** Informatics Student at UPN Veteran Yogyakarta.
+* **Core Focus:** Mobile App Architecture.
+* **Expanding Skillset:** Backend Engineering & Machine Learning.
+* **Looking For:** Mobile Developer opportunities (**Internships & Freelance**).
 
+---
 
+### 🛠 Tech Stack
+
+**Languages**  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Mobile & Frontend**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/-Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Backend & Spatial Database**  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI & Machine Learning**  
+![TensorFlow Lite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LintangNov&show_icons=true&theme=tokyonight&hide_border=true" alt="Lintang's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangNov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=LintangNov&theme=tokyonight&hide_border=true" alt="Lintang's Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/waladi-lintang-novianto](https://www.linkedin.com/in/waladi-lintang-novianto/)
+* **Email:** [lintangwaladi@gmail.com](mailto:lintangwaladi@gmail.com)
+* **Location:** Yogyakarta, Indonesia
